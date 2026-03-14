@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**madhupsheen/madhupsheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Senior Cloud & Platform Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a Senior Cloud & Platform Engineer with experience in hybrid and cloud infrastructure, automation, and platform security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Key Skills
+- **Cloud Platforms:** Azure (IaaS, networking, security), Azure Arc, Microsoft 365, AWS EC2  
+- **Infrastructure as Code & Automation:** Terraform, Bicep, PowerShell, Python, Docker, CI/CD pipelines  
+- **Security & Identity:** Microsoft Entra ID, Conditional Access, MFA, Zero Trust, Defender for Servers  
+- **Monitoring & Observability:** Azure Monitor, Log Analytics, Prometheus, Grafana, ELK  
+- **Platforms & Databases:** VMware, SQL Server, PostgreSQL, Kubernetes, AKS, Veeam Backup  
+
+---
+
+## 🔹 Public Projects
+- [Terraform Azure Sentinel Infrastructure](https://github.com/madhupsheen/terraform-azure-sentinel-infrastructure)  
+  Modular Terraform templates for deploying Azure Log Analytics and Microsoft Sentinel with automation and security best practices.
+
+---
+
+## 🔹 Certifications
+- AZ-500 – Microsoft Azure Security Engineer (In Progress)  
+- MCSE / MCSA – Cloud & Infrastructure  
+
+---
+
+## 🔹 Contact / More Info
+- [LinkedIn Profile](https://www.linkedin.com/in/madhup-sheen-421aa158)  
+- Email: madhupsheen@gmail.com
