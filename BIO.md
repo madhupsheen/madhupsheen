@@ -1,8 +1,8 @@
-# Senior Cloud & Platform Engineer
+# Senior Platform Engineer | Cloud & Security
 
 ### Hi there 👋
 
-Welcome to my GitHub profile! I am a Senior Cloud & Platform Engineer with experience in hybrid and cloud infrastructure, automation, and platform security.
+Welcome to my GitHub profile! I am a Senior Platform Engineer with experience in hybrid and cloud infrastructure, automation, and platform security.
 
 ---
 
