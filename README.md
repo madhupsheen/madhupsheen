@@ -1,63 +1,60 @@
-# Senior Platform Engineer | Cloud | Security | AI
+# AI Automation & AIOps Engineer | Azure | Power Platform | Cloud Platform Engineering
 
 ### Hi there 👋
 
-Welcome to my GitHub profile! I am a Senior Platform Engineer with experience in hybrid and cloud infrastructure, automation, AI and platform security.
-
----
+Welcome to my GitHub profile!
 
 ## Summary
-Senior Cloud & Platform Engineer with 11+ years of experience across Azure, AWS, and hybrid environments, specialising in automation, Power Platform solutions, and AI-assisted operational workflows.
-Proven experience delivering enterprise automation using Power Automate, Power Apps, Azure services, and APIs, with strong focus on improving operational efficiency and reducing manual workload.
-Hands-on experience building AI-driven systems, including local LLM-based service desk automation and AIOps-style
-workflow design.
-
-## 🔹 Core Skills
-**AI & AIOps Engineering**
-- AI-assisted automation & workflow engineering
-- AIOps concepts (incident triage, routing, event correlation)
-- LLM workflow design & prompt engineering
-- Local AI systems (Ollama-based inference environments)
-- AI-driven service desk automation concepts
-- Workflow orchestration (n8n, API-driven pipelines)
-
-**Power Platform & Automation**
-- Power Automate (enterprise workflows, approvals, RPA-style automation)
-- Power Apps (Canvas apps for operational systems)
-- SharePoint + Teams workflow automation
-- Business process digitisation & workflow redesign
-- Azure Logic Apps automation workflows
-
-**Cloud & Platform Engineering**
-- Microsoft Azure (Landing Zones, Arc, governance)
-- AWS EC2 hybrid environments
-- Kubernetes (AKS), Docker, Terraform (modular IaC), Bicep
-
-**Observability & Operations**
-- KQL (Azure Monitor, Log Analytics)
-- Application Insights, Prometheus, Grafana, ELK stack
-- Incident troubleshooting & root cause analysis
-
-**Integration & APIs**
-- Azure API Management (APIM)
-- Microsoft Graph API automation
-- REST APIs, webhook integrations
-- Event-driven architecture patterns
-
-**Identity & Security**
-- Microsoft Entra ID (SSO, Conditional Access, RBAC)
-- Microsoft Defender for Cloud / Servers, Microsoft Sentinel
-- Azure Policy & compliance automation
-- Zero Trust architecture (Entra Private Access) 
+Senior Cloud & Platform Engineer with 11+ years of experience building automation-first systems across Azure, AWS, and hybrid environments.
+Focused on AI-assisted operations, workflow automation, and AIOps-style systems that reduce manual effort and improve service reliability.
 
 ---
 
-## 🔹 Certifications
-- Sophos Endpoint Protection & XDR Certification
-- Cyber Security Foundation & Practitioner - ALC NZ
-- CISM Training - Lumify Work
-- Microsoft Azure Infrastructure Migration Workshop
-- MCSE / MCSA – Cloud & Infrastructure  
+## What I Build
+- AI-powered automation systems using local LLMs (Ollama)
+- AIOps-style workflows for incident classification, routing, and triage
+- Enterprise automation using Power Platform & Azure services
+- Hybrid cloud platforms using Terraform, Kubernetes, and Azure Arc
+- Observability-driven solutions using KQL, monitoring, and alerting systems
+
+---
+
+## Featured Project
+### AI Service Desk Automation Stack (AIOps Platform)
+
+A self-hosted AI-powered IT service desk automation system designed to simulate real-world AIOps workflows.
+
+- Local LLM inference using Ollama (llama3.1:8b)
+- Workflow orchestration with n8n
+- AI-based ticket classification and routing
+- Structured JSON outputs for automation pipelines
+- Fully containerised using Docker
+
+Repo: https://github.com/madhupsheen/AI-ITOps-Intelligence-Platform
+
+---
+
+## Cloud & Platform Projects
+- Azure Sentinel Infrastructure – Terraform-based SIEM deployment
+- Azure Kubernetes Platform – Secure AKS with CI/CD & identity
+- Azure Landing Zones – Enterprise CAF architecture
+
+---
+
+## Tech Stack
+
+- Cloud & Platform: Azure, AWS, Terraform, Kubernetes, Docker
+- Automation: Power Automate, Power Apps, Logic Apps
+- AI & AIOps: Ollama, n8n, LLM workflows, prompt engineering
+- Observability: KQL, Azure Monitor, Prometheus, Grafana
+- Integration: APIs, Microsoft Graph, APIM
+
+---
+
+## Current Focus
+- AI + AIOps engineering
+- Copilot-driven automation workflows
+- Enterprise AI integration patterns (secure, local-first AI)
 
 ---
 
