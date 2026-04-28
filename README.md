@@ -6,6 +6,12 @@ Welcome to my GitHub profile! I am a Senior Platform Engineer with experience in
 
 ---
 
+## Summary
+Senior Cloud & Platform Engineer with 11+ years of experience across Azure, AWS, and hybrid environments, specialising in automation, Power Platform solutions, and AI-assisted operational workflows.
+Proven experience delivering enterprise automation using Power Automate, Power Apps, Azure services, and APIs, with strong focus on improving operational efficiency and reducing manual workload.
+Hands-on experience building AI-driven systems, including local LLM-based service desk automation and AIOps-style
+workflow design.
+
 ## 🔹 Key Skills
 - **Cloud Platforms:** Azure (IaaS, networking, security), Azure Arc, Microsoft 365, AWS EC2  
 - **Infrastructure as Code & Automation:** Terraform, Bicep, PowerShell, Python, Docker, CI/CD pipelines  
@@ -15,14 +21,11 @@ Welcome to my GitHub profile! I am a Senior Platform Engineer with experience in
 
 ---
 
-## 🔹 Public Projects
-- [Terraform Azure Sentinel Infrastructure](https://github.com/madhupsheen/terraform-azure-sentinel-infrastructure)  
-  Modular Terraform templates for deploying Azure Log Analytics and Microsoft Sentinel with automation and security best practices.
-
----
-
 ## 🔹 Certifications
-- AZ-500 – Microsoft Azure Security Engineer (In Progress)  
+- Sophos Endpoint Protection & XDR Certification
+- Cyber Security Foundation & Practitioner - ALC NZ
+- CISM Training - Lumify Work
+- Microsoft Azure Infrastructure Migration Workshop
 - MCSE / MCSA – Cloud & Infrastructure  
 
 ---
